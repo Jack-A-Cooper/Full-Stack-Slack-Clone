@@ -1,1 +1,3 @@
-# Slack-Clone-Project
+# Slack Clone Project
+
+Pair programmer: Emmanuel Pena
