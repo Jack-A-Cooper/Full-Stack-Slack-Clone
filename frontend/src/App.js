@@ -46,7 +46,7 @@ function App() {
             <ResponsiveDrawer />
           </Route>
           <Route path="/">
-            <Login />
+            {show ? <Login /> : <></>}
           </Route>
         </globalContext.Provider>
       </Switch>
