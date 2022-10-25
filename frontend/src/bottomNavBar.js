@@ -20,7 +20,6 @@ const useStyles = makeStyles({
   root: {
     zIndex: 500,
     flexGrow: 1,
-    width: 375,
     position: 'fixed',
     bottom: 0,
     left: 0,
